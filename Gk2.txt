@@ -1,0 +1,9 @@
+GitHub can be separated as the Git and the Hub. GitHub service includes access controls as well as collaboration features like task management, repository hosting, and team management.
+
+The key benefits of GitHub are as follows.
+
+It is easy to contribute to open source projects via GitHub.
+It helps to create an excellent document.
+You can attract recruiter by showing off your work. If you have a profile on GitHub, you will have a higher chance of being recruited.
+It allows your work to get out there in front of the public.
+You can track changes in your code across versions.
